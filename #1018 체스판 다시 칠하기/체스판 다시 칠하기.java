@@ -10,7 +10,7 @@ public class Main {
         int M = Integer.parseInt(st.nextToken());
 
         String[] Borad = new String[N];
-        int result = 32;
+        int result = 64;
         for (int i = 0; i < N; i++) {
             Borad[i] = br.readLine();
         }
