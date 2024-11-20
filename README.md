@@ -1,2 +1,3 @@
 # -Baekjoon-Online-Judge
-This is a auto push repository for Baekjoon Online Judge created with [NKLCBHub](https://github.com/Donghyeon0915/NKLCB_Hub).
+
+##코테 준비를 위한 백준 알고리즘 레퍼지스토리 입니다.
